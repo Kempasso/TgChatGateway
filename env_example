@@ -1,0 +1,11 @@
+POSTGRES_USER='test'
+POSTGRES_PASSWORD='1234567'
+POSTGRES_DB='testing'
+HOSTNAME_DB='127.0.0.1'
+POSTGRES_PORT=5432
+TELEGRAM_BOT_KEY='your_key'
+OPENAI_API_KEY='your_key'
+# Это для https, так и оставляем
+HOSTNAME=https://dser41v.loca.lt
+REDIS_HOST='127.0.0.1'
+REDIS_PORT=6379

@@ -1,0 +1,5 @@
+FROM node:16
+
+RUN npm install -g localtunnel
+
+CMD lt --port 8000 --local_https true --subdomain dser41d
